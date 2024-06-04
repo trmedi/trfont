@@ -7,6 +7,14 @@
 }
 
 @font-face {
+  font-family: 'NanumGothic';
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/gh/trmedi/trfont/nanumfont/NanumGothic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/trmedi/trfont/nanumfont/NanumGothic.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
   font-family: 'NanumGothicBold';
   font-style: normal;
   src: url('https://cdn.jsdelivr.net/gh/trmedi/trfont/nanumfont/NanumGothicBold.woff2') format('woff2'),
