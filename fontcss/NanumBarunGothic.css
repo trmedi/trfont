@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Nanum Barun Gothic';
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/gh/trmedi/trfont/nanumfont/NanumBarunGothic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/trmedi/trfont/nanumfont/NanumBarunGothic.woff') format('woff');
+  font-display: swap;
+}

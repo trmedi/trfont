@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Sorts Mill Goudy Italic';
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/gh/trmedi/trfont/sortsmmillgoudyfont/SortsMillGoudy-Italic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/trmedi/trfont/sortsmmillgoudyfont/SortsMillGoudy-Italic.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sorts Mill Goudy Regular';
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/gh/trmedi/trfont/sortsmmillgoudyfont/SortsMillGoudy-Regular.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/trmedi/trfont/sortsmmillgoudyfont/SortsMillGoudy-Regular.woff') format('woff');
+  font-display: swap;
+}
