@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'NanumBarunGothic';
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/gh/trmedi/trfont/nanumfont/NanumBarunGothic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/trmedi/trfont/nanumfont/NanumBarunGothic.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NanumGothicBold';
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/gh/trmedi/trfont/nanumfont/NanumGothicBold.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/trmedi/trfont/nanumfont/NanumGothicBold.woff') format('woff');
+  font-display: swap;
+}
