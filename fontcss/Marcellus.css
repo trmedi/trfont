@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'MarcellusRegular';
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/gh/trmedi/trfont/sortsmmillgoudyfont/Marcellus-Regular.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/trmedi/trfont/sortsmmillgoudyfont/Marcellus-Regular.woff') format('woff');
+  font-display: swap;
+}
