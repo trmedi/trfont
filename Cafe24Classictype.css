@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Cafe24Classictype';
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/gh/trmedi/trfont/cafe24font/Cafe24Classictype.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/trmedi/trfont/cafe24font/Cafe24Classictype.woff') format('woff');
+  font-display: swap;
+}
