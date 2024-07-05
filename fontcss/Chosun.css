@@ -1,22 +1,22 @@
 @font-face {
   font-family: 'ChosunCentennial';
   font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/trmedi/trfont/cafe24font/ChosunCentennial.woff2') format('woff2'),
-    url('https://cdn.jsdelivr.net/gh/trmedi/trfont/cafe24font/ChosunCentennial.woff') format('woff');
+  src: url('https://cdn.jsdelivr.net/gh/trmedi/trfont/chosunfont/ChosunCentennial.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/trmedi/trfont/chosunfont/ChosunCentennial.woff') format('woff');
   font-display: swap;
 }
 
 @font-face {
   font-family: 'ChosunKm';
   font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/trmedi/trfont/cafe24font/ChosunKm.woff2') format('woff2'),
-    url('https://cdn.jsdelivr.net/gh/trmedi/trfont/cafe24font/ChosunKm.woff') format('woff');
+  src: url('https://cdn.jsdelivr.net/gh/trmedi/trfont/chosunfont/ChosunKm.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/trmedi/trfont/chosunfont/ChosunKm.woff') format('woff');
   font-display: swap;
 }
 
 @font-face {
   font-family: 'chosunnm';
   font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/trmedi/trfont/cafe24font/chosunnm.woff') format('woff');
+  src: url('https://cdn.jsdelivr.net/gh/trmedi/trfont/chosunfont/chosunnm.woff') format('woff');
   font-display: swap;
 }
