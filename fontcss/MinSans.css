@@ -35,7 +35,7 @@
 }
 
 @font-face {
-  font-family: 'MinSans-Medium';
+  font-family: 'MinSans';
   font-style: normal;
   font-weight: 500;
   src: url('https://cdn.jsdelivr.net/gh/trmedi/trfont/minsans/MinSans-Medium.woff2') format('woff2'),
@@ -44,7 +44,7 @@
 }
 
 @font-face {
-  font-family: 'MinSans-SemiBold';
+  font-family: 'MinSans';
   font-style: normal;
   font-weight: 600;
   src: url('https://cdn.jsdelivr.net/gh/trmedi/trfont/minsans/MinSans-SemiBold.woff2') format('woff2'),
@@ -53,7 +53,7 @@
 }
 
 @font-face {
-  font-family: 'MinSans-Bold';
+  font-family: 'MinSans';
   font-style: normal;
   font-weight: 700;
   src: url('https://cdn.jsdelivr.net/gh/trmedi/trfont/minsans/MinSans-Bold.woff2') format('woff2'),
@@ -62,7 +62,7 @@
 }
 
 @font-face {
-  font-family: 'MinSans-ExtraBold';
+  font-family: 'MinSans';
   font-style: normal;
   font-weight: 800;
   src: url('https://cdn.jsdelivr.net/gh/trmedi/trfont/minsans/MinSans-ExtraBold.woff2') format('woff2'),
@@ -71,7 +71,7 @@
 }
 
 @font-face {
-  font-family: 'MinSans-Black';
+  font-family: 'MinSans';
   font-style: normal;
   font-weight: 900;
   src: url('https://cdn.jsdelivr.net/gh/trmedi/trfont/minsans/MinSans-Black.woff2') format('woff2'),
