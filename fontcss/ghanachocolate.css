@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'ghanachocolate';
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/gh/trmedi/trfont/Ghanachocolate/Ghanachocolate.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/trmedi/trfont/Ghanachocolate/Ghanachocolate.woff') format('woff');
+  font-display: swap;
+}
