@@ -21,3 +21,39 @@
     url('https://cdn.jsdelivr.net/gh/trmedi/trfont/nanumfont/NanumGothicBold.woff') format('woff');
   font-display: swap;
 }
+
+@font-face {
+  font-family: 'NanumSquareRound';
+  font-style: normal;
+  font-weight: 300;
+  src: url('https://cdn.jsdelivr.net/gh/trmedi/trfont/nanumfont/NanumSquareRoundL.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/trmedi/trfont/nanumfont/NanumSquareRoundL.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NanumSquareRound';
+  font-style: normal;
+  font-weight: 500;
+  src: url('https://cdn.jsdelivr.net/gh/trmedi/trfont/nanumfont/NanumSquareRoundR.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/trmedi/trfont/nanumfont/NanumSquareRoundR.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NanumSquareRound';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://cdn.jsdelivr.net/gh/trmedi/trfont/nanumfont/NanumSquareRoundB.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/trmedi/trfont/nanumfont/NanumSquareRoundB.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NanumSquareRound';
+  font-style: normal;
+  font-weight: 900;
+  src: url('https://cdn.jsdelivr.net/gh/trmedi/trfont/nanumfont/NanumSquareRoundEB.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/trmedi/trfont/nanumfont/NanumSquareRoundEB.woff') format('woff');
+  font-display: swap;
+}
